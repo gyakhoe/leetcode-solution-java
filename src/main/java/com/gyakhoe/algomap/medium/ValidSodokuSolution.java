@@ -1,4 +1,4 @@
-package com.gyakhoe.algomap.easy;
+package com.gyakhoe.algomap.medium;
 
 import java.util.HashSet;
 import java.util.Set;
