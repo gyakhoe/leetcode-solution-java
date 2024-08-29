@@ -1,5 +1,8 @@
 package com.gyakhoe.algomap.easy;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class ReverseStringSolution {
 
     public void reverseString(char[] s){
@@ -12,5 +15,8 @@ public class ReverseStringSolution {
             left++;
             right--;
         }
+        final Map<Integer, Integer> numberMap = new HashMap<>();
+
+
     }
 }
