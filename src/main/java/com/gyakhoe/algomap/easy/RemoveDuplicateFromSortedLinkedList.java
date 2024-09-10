@@ -1,15 +1,7 @@
 package com.gyakhoe.algomap.easy;
 
 
-
- // Definition for singly-linked list.
-  class ListNode {
-     int val;
-     ListNode next;
-     ListNode() {}
-     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-  }
-
+import com.gyakhoe.util.ListNode;
 
 public class RemoveDuplicateFromSortedLinkedList {
 

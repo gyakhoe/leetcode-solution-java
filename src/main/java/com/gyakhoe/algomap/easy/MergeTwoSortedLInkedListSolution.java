@@ -1,5 +1,7 @@
 package com.gyakhoe.algomap.easy;
 
+import com.gyakhoe.util.ListNode;
+
 public class MergeTwoSortedLInkedListSolution {
 
     public ListNode mergeTwoList(ListNode list1, ListNode list2) {
