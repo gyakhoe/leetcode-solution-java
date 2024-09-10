@@ -1,8 +1,7 @@
 package com.gyakhoe.algomap.easy;
 
 
-
-
+import com.gyakhoe.util.ListNode;
 
 public class ReverseLinkedListSolution {
     public ListNode reverseList(ListNode head) {
