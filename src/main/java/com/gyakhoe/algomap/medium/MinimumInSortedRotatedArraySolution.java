@@ -1,6 +1,6 @@
 package com.gyakhoe.algomap.medium;
 
-public class MinimumInSortedRoatedArraySolution {
+public class MinimumInSortedRotatedArraySolution {
 
     public int findMinimum(int[] nums) {
 
